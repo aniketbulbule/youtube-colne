@@ -1,15 +1,15 @@
-## YouTube Clone
+# YouTube Clone
 A responsive **YouTube homepage clone** developed using **HTML5 and CSS3**, focused on replicating the core layout and visual structure of the platform.
 
-# Tech Stack
+## Tech Stack
 - HTML5  
 - CSS3 (Flexbox, Grid)
 
-# Highlights
+## Highlights
 - Header with search interface  
 - Sidebar navigation layout  
 - Video thumbnail grid  
 - Responsive design principles
 
-# Objective
+## Objective
 To strengthen frontend fundamentals and practice modern CSS layout techniques.
